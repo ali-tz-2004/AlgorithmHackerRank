@@ -8,4 +8,4 @@ PokerNim: https://www.hackerrank.com/challenges/poker-nim-1/problem?isFullScreen
 <br/>
 Gemstones: https://www.hackerrank.com/challenges/gem-stones/problem?isFullScreen=false
 <br/>
-https://www.hackerrank.com/challenges/icecream-parlor/problem?isFullScreen=false
+Ice Cream Parlor: https://www.hackerrank.com/challenges/icecream-parlor/problem?isFullScreen=false
