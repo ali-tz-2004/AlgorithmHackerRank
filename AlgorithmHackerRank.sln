@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IceCreamParlor", "IceCreamP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CorrectnessAndTheLoopInvariant", "CorrectnessAndTheLoopInvariant\CorrectnessAndTheLoopInvariant.csproj", "{BC36FFAC-C5E9-4817-A895-00A8E778E120}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CavityMap", "CavityMap\CavityMap.csproj", "{8479B82C-D3AE-4A37-B6B8-7BA7CEB0EA6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CavityMap", "CavityMap\CavityMap.csproj", "{8479B82C-D3AE-4A37-B6B8-7BA7CEB0EA6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManasaAndStones", "ManasaAndStones\ManasaAndStones.csproj", "{265EAB00-8C00-44E8-AE80-7251F4CD28CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{8479B82C-D3AE-4A37-B6B8-7BA7CEB0EA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8479B82C-D3AE-4A37-B6B8-7BA7CEB0EA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8479B82C-D3AE-4A37-B6B8-7BA7CEB0EA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{265EAB00-8C00-44E8-AE80-7251F4CD28CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265EAB00-8C00-44E8-AE80-7251F4CD28CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265EAB00-8C00-44E8-AE80-7251F4CD28CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265EAB00-8C00-44E8-AE80-7251F4CD28CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
